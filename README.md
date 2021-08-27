@@ -1,1 +1,1 @@
-Working iNeuron Data Analysis Internship Project.
+iNeuron Data Analysis Internship Project.
